@@ -20,7 +20,7 @@ remove.style.color="ghostwhite";
 
 
 
-var ws = new WebSocket("ws://localhost/question/");
+var ws = new WebSocket("ws://gdfgdfgdf.com/question/");
 var el = document.createElement("div");
 
 el.appendChild(remove);
